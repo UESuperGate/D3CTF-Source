@@ -1,3 +1,3 @@
-# D3CTF-2021-Exploits
+# D3CTF-Source
 
-This repo includes the exploits of `hackphp` and `liproll`.
+This repo includes the source codes, attachments and exploits of `D3CTF` challenges built by myself :).
